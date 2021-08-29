@@ -1,0 +1,12 @@
+.container{
+    margin-top: 20px;
+}
+
+.row, .featurette{
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+.margin-el{
+    margin-top: 2em;
+}
